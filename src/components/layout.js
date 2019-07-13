@@ -72,6 +72,8 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer align="left" style={{ marginTop: `100px` }}>
+        <a href="http://shodipoayomide.com/talks"><b>Talks</b></a>
+          {` `}
           <a href="http://linkedin.com/in/shodipo.ayomide">Linkedin</a>
           {` `}
           <a href="http://twitter.com/developerayo">Twitter</a>
